@@ -10,4 +10,4 @@ public class ListaTarefasApplication {
 		SpringApplication.run(ListaTarefasApplication.class, args);
 	}
 
-}
+}// Fim da classe ListaTarefasApplication
